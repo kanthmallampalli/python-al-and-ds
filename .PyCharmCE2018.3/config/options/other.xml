@@ -1,0 +1,41 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.6502463" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="Darcula.SavedEditorTheme" value="_@user_Darcula" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="PyCharm.InitialConfiguration" value="true" />
+    <property name="PyCharm.InitialConfiguration.V2" value="true" />
+    <property name="PyCharm.InitialConfiguration.V3" value="true" />
+    <property name="PyCharm.InitialConfiguration.V4" value="true" />
+    <property name="PyCharm.InitialConfiguration.V5" value="true" />
+    <property name="PyCharm.InitialConfiguration.V6" value="true" />
+    <property name="PyCharm.InitialConfiguration.V7" value="true" />
+    <property name="PyCharm.initialConfigurationShown" value="true" />
+    <property name="com.intellij.history.integration.ui.views.DirectoryHistoryDialog.0" value="300" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.0" value="300" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.1" value="800" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/PycharmProjects/Ganes21/Methods/Exercise_methods.py&#10;C:/Users/Kanth_mallampalli/PycharmProjects/Ganes21/Methods/built in methods.py&#10;C:/Users/Kanth_mallampalli/PycharmProjects/Ganes21&#10;C:/Users/Kanth_mallampalli/PycharmProjects/Ganes21/Methods/variable_Scope.py&#10;C:/Users/Kanth_mallampalli/PycharmProjects/Ganes21/Methods/positional_parameters.py&#10;C:/Users/Kanth_mallampalli/PycharmProjects&#10;C:/Users/Kanth_mallampalli/PycharmProjects/Practice/modified nivice gcd.py&#10;C:/Users/Kanth_mallampalli/PycharmProjects/Practice/nivice gcd.py&#10;C:/Users/Kanth_mallampalli/PycharmProjects/Practice" />
+    <property name="file.gist.reindex.count" value="2657" />
+    <property name="fileTypeChangedCounter" value="1" />
+    <property name="lastTip" value="7" />
+  </component>
+  <component name="PyTestFrameworkService">
+    <option name="SDK_TO_PYTEST">
+      <map>
+        <entry key="C:\Users\Kanth_mallampalli\PycharmProjects\Practice\venv\Scripts\python.exe" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_NOSETEST">
+      <map>
+        <entry key="C:\Users\Kanth_mallampalli\PycharmProjects\Practice\venv\Scripts\python.exe" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_TRIALTEST">
+      <map>
+        <entry key="C:\Users\Kanth_mallampalli\PycharmProjects\Practice\venv\Scripts\python.exe" value="false" />
+      </map>
+    </option>
+  </component>
+</application>

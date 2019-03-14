@@ -1,0 +1,37 @@
+7,9
+-. . -..- - / . -. - .-. -.--
+14,63
+-. . -..- - / . -. - .-. -.--
+0
+-. . -..- - / . -. - .-. -.--
+5
+-. . -..- - / . -. - .-. -.--
+(6,7)
+-. . -..- - / . -. - .-. -.--
+9
+-. . -..- - / . -. - .-. -.--
+78
+-. . -..- - / . -. - .-. -.--
+6
+-. . -..- - / . -. - .-. -.--
+55
+-. . -..- - / . -. - .-. -.--
+77
+-. . -..- - / . -. - .-. -.--
+runfile('C:/Users/Kanth_mallampalli/PycharmProjects/Practice/gcd.py', wdir='C:/Users/Kanth_mallampalli/PycharmProjects/Practice')
+-. . -..- - / . -. - .-. -.--
+7
+-. . -..- - / . -. - .-. -.--
+runfile('C:/Users/Kanth_mallampalli/PycharmProjects/Practice/nivice gcd.py', wdir='C:/Users/Kanth_mallampalli/PycharmProjects/Practice')
+-. . -..- - / . -. - .-. -.--
+99
+-. . -..- - / . -. - .-. -.--
+199
+-. . -..- - / . -. - .-. -.--
+runfile('C:/Users/Kanth_mallampalli/PycharmProjects/Practice/modified nivice gcd.py', wdir='C:/Users/Kanth_mallampalli/PycharmProjects/Practice')
+-. . -..- - / . -. - .-. -.--
+63
+-. . -..- - / . -. - .-. -.--
+66
+-. . -..- - / . -. - .-. -.--
+14

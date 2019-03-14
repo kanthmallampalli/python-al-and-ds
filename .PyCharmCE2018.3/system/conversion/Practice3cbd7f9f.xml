@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="PythonTestConverterProvider" />
+  </applied-converters>
+  <project-files>
+    <file path="C:\Users\Kanth_mallampalli\PycharmProjects\Practice\.idea\Practice.iml" timestamp="1551328288486" />
+    <file path="C:\Users\Kanth_mallampalli\PycharmProjects\Practice\.idea\encodings.xml" timestamp="1551328207950" />
+    <file path="C:\Users\Kanth_mallampalli\PycharmProjects\Practice\.idea\misc.xml" timestamp="1551328288737" />
+    <file path="C:\Users\Kanth_mallampalli\PycharmProjects\Practice\.idea\modules.xml" timestamp="1551328208023" />
+    <file path="C:\Users\Kanth_mallampalli\PycharmProjects\Practice\.idea\vcs.xml" timestamp="1551363327524" />
+    <file path="C:\Users\Kanth_mallampalli\PycharmProjects\Practice\.idea\workspace.xml" timestamp="1552322479077" />
+  </project-files>
+</conversion>
+
